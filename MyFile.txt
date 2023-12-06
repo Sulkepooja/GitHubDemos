@@ -1,1 +1,2 @@
-Adding first file in line
+Adding first file in line.
+This is second line.
