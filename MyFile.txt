@@ -2,3 +2,5 @@ Adding first file in line.
 This is second line.
 second file add in git.
 git is working.
+Adding new file.
+Adding new code in git.
